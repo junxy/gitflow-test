@@ -13,7 +13,7 @@ namespace Mvc.Controllers
 
         public ActionResult Index()
         {
-            ViewBag.Message = "你好 Git Flow";
+            ViewBag.Message = "你好 Git Flow 。";
 
             return View();
         }
